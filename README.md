@@ -1,6 +1,8 @@
 ZOMBIES
 =================================
 
+![Zombies](http://codenatic.com/blog/wp-content/uploads/2015/02/zombies-766x510.png "Original Zombie Game!")
+
 A Zombies game made with Phaser!
 
 I have made this Zombie game just for fun, i'm pretty sure that the logic can be improved a lot but...
