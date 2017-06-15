@@ -1,7 +1,7 @@
 ZOMBIES
 =================================
 
-![Zombies](http://codenatic.com/wp-content/uploads/2016/01/zombies.png "Original Zombie Game!")
+![Zombies](https://raw.githubusercontent.com/cavestri/zombies/master/zombies.JPG "Original Zombie Game!")
 
 A Zombies game made with Phaser!
 
@@ -16,7 +16,7 @@ You cant win this game because it never ends!
 On Line Version
 =============
 
-You can check a live version [here](http://codenatic.com/projects/zombies/)
+You can check a live version [here](http://codenatic.com/demos/zombies/)
 
 **Kill some #$%@& Zombies**
 
@@ -25,7 +25,7 @@ Licence
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Franco Cavestri
+Copyright (c) 2017 Franco Cavestri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
