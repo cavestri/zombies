@@ -13,13 +13,6 @@ Usage
 Drive the car using the directional arrows of you keyboard and kill as many zombies as you can!!!
 You cant win this game because it never ends!
 
-On Line Version
-=============
-
-You can check a live version [here](http://codenatic.com/demos/zombies/)
-
-**Kill some #$%@& Zombies**
-
 Licence
 =======
 
