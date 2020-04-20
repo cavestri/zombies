@@ -7,6 +7,8 @@ A Zombies game made with Phaser!
 
 I have made this Zombie game just for fun, i'm pretty sure that the logic can be improved a lot but...
 
+**DEMO:** http://cavestri.github.io/zombies/
+
 Usage
 =====
 
